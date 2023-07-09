@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "buf.C": "cpp",
+        "heapfile.C": "cpp",
+        "heapfile copy.C": "cpp",
+        "heapfile_backup.C": "cpp",
+        "error.C": "cpp",
+        "delete.C": "cpp",
+        "delete_old.C": "cpp",
+        "dbdestroy.C": "cpp",
+        "dbcreate.C": "cpp",
+        "insert.C": "cpp",
+        "select_old.C": "cpp",
+        "select.C": "cpp",
+        "bufHash.C": "cpp",
+        "db.C": "cpp"
+    }
+}

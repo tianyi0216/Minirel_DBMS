@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "select.C": "cpp",
+        "insert.C": "cpp",
+        "delete.C": "cpp",
+        "join.C": "cpp",
+        "minirel.C": "cpp",
+        "heapfile.C": "cpp",
+        "heapfile_1.C": "cpp",
+        "catalog.C": "cpp",
+        "string": "cpp",
+        "select copy.C": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "functional": "cpp",
+        "select copy 2.C": "cpp",
+        "delete copy.C": "cpp",
+        "delete_old.C": "cpp",
+        "select_old.C": "cpp"
+    }
+}
